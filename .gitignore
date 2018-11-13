@@ -1,0 +1,9 @@
+node_modules
+debug.log
+npm-debug.log
+public/output/*/*.*
+!public/output/*/.gitkeep
+public/output/*.*
+public/input/*/*.*
+!public/input/*/.gitkeep
+public/input/*.*

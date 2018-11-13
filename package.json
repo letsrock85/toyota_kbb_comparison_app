@@ -1,0 +1,29 @@
+{
+  "name": "comparison-app",
+  "version": "1.0.0",
+  "description": "See readme.md",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "4.1.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "capitalize": "^1.0.0",
+    "clone": "^2.1.0",
+    "csvtojson": "^1.1.2",
+    "ftp": "^0.3.10",
+    "http": "0.0.0",
+    "json2csv": "^3.7.3",
+    "log4js": "^1.1.0",
+    "multisort": "^0.5.3",
+    "node-excel-to-json": "0.0.3",
+    "request": "^2.79.0",
+    "yargs": "^6.6.0"
+  },
+  "devDependencies": {}
+}
